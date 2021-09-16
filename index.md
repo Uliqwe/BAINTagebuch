@@ -4,4 +4,4 @@ title: Lerntagebuch
 
 ## Willkommen zu meinem Lerntagebuch
 
-Ich freue mich, dass Du da bist. Ich schreibe hier über meine Erfahrungen im Kurs **Bibliotheks- und Archivinformatik**.
+In diesem Blog schreibe ich über die Lerninhalte **Bibliotheks- und Archivinformatik** sowie meine persönlichen Erfahrungen und Eindrucke in diesem Modul.
