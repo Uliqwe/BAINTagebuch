@@ -1,5 +1,5 @@
 ---
-title: "Mein Start - Woher komme ich und wohin gehe ich?"
+title: "Mein Start - Woher komme ich?"
 date: 2021-09-16
 ---
 
