@@ -1,6 +1,6 @@
 ---
 title: "Technische Grundlagen"
-date: 2021-09-28
+date: 2021-11-15
 ---
 
 Download von Webseite und via Background-Jobs Import Data Beispiel Hochladen alles gut gegangen. Die Anleitung Schritt für Schritt durchgeführt.
