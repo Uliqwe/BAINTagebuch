@@ -35,4 +35,7 @@ DSpace ist eine Open Source Software für Publikationen (DSpace Chris für Forsc
 REST API --> Schnittstelle, Webtechnologie, Feedback in Webformaten (HTML, XML), universell einsetzbar (Rest stateless, heisst alle Anfragen an die Schnittstelle sind ohne Kontext, das heisst die Schnittstelle merkt sich nicht, welche Anfragen bereits gestellt wurden o.ä., jede Anfrage wird separat betrachtet)
 Diese Infos sind sehr spannend für mich, da ich mit dem Datenanalyse-Tool das ich betreue oft mit REST API arbeite. Ich wusste auch bereits was es ist, aber jetzt noch etwas mehr Zusatzinfos dazu.
 
+Die zweite Übung war mühsam, die ersten beiden Beispielpublikationen erschienen nicht im Task-Pool, ich überprüfte dann die Berechtigungseinstellungen und stellte fest, dass dem User, mit dem ich eingeloggt war die Berechtigung wahrscheinlich fehlt. Ich habe das also noch editiert. Beim dritten Anlauf ein PDF zu publizieren konnte ich diese im Task-Pool entgegennehmen und akzeptieren. Anschliessend musste ich die Publikation drei Mal entgegennehmen und akzeptieren (Ich bin nicht sicher ob das bei allen so war oder ob ich etwas falsch eingestellt habe), letztenendes war die Publikation aber in meiner Collection drin.
+
+
 
