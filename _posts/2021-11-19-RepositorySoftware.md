@@ -30,3 +30,9 @@ Forschungsinformation - Information über die Forschung --> Metadaten über die 
 Zenodo (Software Invenio) von CERN (*nachschauen was genau das ist*)
 Man kann eine eigene Community anlegen und eigene Publikationen veröffentlichen. 
 
+*Übung mit DSpace*
+DSpace ist eine Open Source Software für Publikationen (DSpace Chris für Forschungsdaten). Metadatenstandards Qualified Dublin Core (oder DataCite).
+REST API --> Schnittstelle, Webtechnologie, Feedback in Webformaten (HTML, XML), universell einsetzbar (Rest stateless, heisst alle Anfragen an die Schnittstelle sind ohne Kontext, das heisst die Schnittstelle merkt sich nicht, welche Anfragen bereits gestellt wurden o.ä., jede Anfrage wird separat betrachtet)
+Diese Infos sind sehr spannend für mich, da ich mit dem Datenanalyse-Tool das ich betreue oft mit REST API arbeite. Ich wusste auch bereits was es ist, aber jetzt noch etwas mehr Zusatzinfos dazu.
+
+
