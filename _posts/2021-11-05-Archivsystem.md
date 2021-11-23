@@ -3,8 +3,7 @@ title: "Funktion und Aufbau von Archivsystemen"
 date: 2021-11-05
 ---
 
-ALMA, ISAD(G) und Archivesspace. 
-In diesem Unterrichtsblock gab es einen Gastvortrag zum Thema "Bibliothekssystem ALMA", anschlie
+In diesem Unterrichtsblock stehen ein Gastvortrag über ALMA, eine Übersicht über ISAD(G) und EAD, und zum Schluss die Installierung von Archivesspaces an.
 
 *Inhalt*
 1. Teil Gastvortrag:
