@@ -3,7 +3,8 @@ title: "Funktion und Aufbau von Archivsystemen"
 date: 2021-11-05
 ---
 
-Hier sind erst ein paar Notizen zu sehen...
+ALMA, ISAD(G) und Archivesspace. 
+In diesem Unterrichtsblock gab es einen Gastvortrag zum Thema "Bibliothekssystem ALMA", anschlie
 
 *Inhalt*
 1. Teil Gastvortrag:
@@ -24,11 +25,14 @@ Es gibt nur 6 Pflichtfelder
 
 Verfasser nicht, weil in Archiven teilweise gar nicht bekannt.
 Nachtiele:
-- Datensätze sind teilweise nur im Kontext verständlich. Macht Recherche schwierig
+- Datensätze sind teilweise nur im Kontext verständlich. Macht Recherche schwierig *--> daher wäre hier eine Ergänzung mit Linked-Data interessant (siehe auch unten Artikel von SII)*
 - Ein Objekt kann nur an einer Stelle zugeordnet werden, nicht an mehreren. Man muss also die Struktur eines Bestandes kennen um etwas zu finden. Das macht es schwierig zu recherchieren
 Neuer Standard RIC ist in Entwicklung, basiert auf Linked-Data-Prinzipien (also bsp. mit Mehrfachbeziehungen) *--> vertiefen weil spannend?*
 
-*--> evtl. Übung mit Einstein machen, da das noch mehr Zeichen ergibt und ISAD(G) in Action sehen kann?*
+*Literaturempfehlung: Was sich Historiker:innen von Archiven wünschen*
+https://dhdhi.hypotheses.org/6107 
+Diese Auflistung von Anforderungen an ein zeitgemässes Archiv fand ich sehr spannend und hat für mich die Brücke zu verschiedensten (vergangenen und auch laufenden) Modulen geschlagen. Beispielsweise setzen wir uns aktuell mit der Digitalisierung von Bildmaterial auseinander, wo natürlich Scannen, OCR und digitalisieren nach Metamorfoze-Standard im Zentrum stehen. Letztes Semester haben wir uns in einer Gruppenarbeit mit Linked-Data als Zukunft der Archiverschliessung befasst, hier der Link auf ein Selbstversuch des Schweizerischen Institutes für Informationswissenschaft (SII) zu diesem Thema: https://www.degruyter.com/document/doi/10.1515/iwp-2020-2114/html
+
 
 
 
