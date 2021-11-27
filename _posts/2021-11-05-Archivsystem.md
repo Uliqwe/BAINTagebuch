@@ -34,5 +34,9 @@ Diese Auflistung von Anforderungen an ein zeitgemässes Archiv fand ich sehr spa
 
 
 
+Begriffklärung
 
+Unerschied zwischen Web-basiert und Cloud-basiert 
+--> Webbasiert = nicht lokal auf dem Computer sondern über einen Browser aufrufen, das Wort steht also für die Art des Zugriffs
+--> Coudbasiert = Das beschreibt nicht den Zugriff, sondern das Betriebsmodell. Cloud ist eine Installation der Software, alle Kunden erhalten dieselbe Installation (Software), kann ebenfalls webbasiert sein. Es ist eine Software die von "allen" gleichzeitig benutzt wird (Facebook= alle nutzen dieselbe Software, nicht jeder hat sein eigenes Facebook).
 
