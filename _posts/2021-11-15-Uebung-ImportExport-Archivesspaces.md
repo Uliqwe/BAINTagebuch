@@ -22,3 +22,10 @@ Struktur HTML - Archivesspace sehr unterschiedlich. Schwierig wirklich vergleich
 
 MARCXML - Archivesspaces
 Informationsverslust, weil in MARC21 nicht alle Felder vorhanden sind, die in Archivesspace befüllt sind. Das liegt daran, dass MARC21 ein Bibliotheksstandard ist und nicht primär ein Archivstandard.
+
+
+*Nachtrag zu vorhergehendem Blog-Eintrag "Aufbau und Funktion von Archivsystemen"*
+
+Bei Export aus Archivespace in MARCXML-Format gehen Informationen verloren. Der Export ist also nicht Verlustfrei. Das hat damit zu tun, dass MARC21 ein Bibliotheks-Standard ist, und nicht ein Archivstandard. Der MARC21-Standard liefert also nicht für alle archivspezifischen Felder Daten.
+
+Archivesspace ist in Amerika sehr bekannt. In der Schweiz gibt es den Dienstleister "docuteam", welches die Open Source Software AtoM (?) Access to Memory anbietet. Ist in der Bedienung noch fast einfacher als Archivesspaces. *--> Webseite ansehen!*
