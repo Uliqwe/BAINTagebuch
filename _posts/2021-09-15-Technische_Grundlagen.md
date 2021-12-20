@@ -3,7 +3,7 @@ title: "Technische Grundlagen"
 date: 2021-09-28
 ---
 
-Wie üblich beginnt das Modul mit einer Vorstellungsrunde, einem organisatorischen Überblick und dem Einstieg in die Thematik. Der erste Tagebucheintrag erzählt über die Vorgehensweise, die Inhalte und die Struktur rund um das Modul BAIN und das Lerntagebuch. 
+Wie üblich beginnt das Modul mit einer Vorstellungsrunde, einem organisatorischen Überblick und dem Einstieg in die Thematik. Der erste Tagebucheintrag erzählt über die Vorgehensweise, die Inhalte und die Struktur rund um das Modul BAIN und das Lerntagebuch sowie die ersten Schritte in die technischen Grundlagen.
 
 *_wie arbeiten wir in BAIN_*
 
@@ -13,7 +13,7 @@ Organisatorisch ist für diesen Eintrag wichtig, dass der Leistungsnachweis für
 
 *_Die Lernziele von BAIN:_*
 
-Nach erfolgreicher Teilnahme am Modul sind die Studierenden in der Lage:
+Nach erfolgreicher Teilnahme am Modul sind die Studierenden in der Lage
 - die Funktionsweise spezifischer Bibliotheks- und Archivsoftware zu verstehen
 - die richtige Software für eine spezifische Aufgabe zu evaluieren
 - Suchmaschinen zu konfigurieren
