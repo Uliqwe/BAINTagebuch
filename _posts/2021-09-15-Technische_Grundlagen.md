@@ -3,7 +3,7 @@ title: "Technische Grundlagen"
 date: 2021-09-28
 ---
 
-Wie üblich beginnt das Modul mit einer Vorstellungsrunde, einem organisatorischen Überblick und dem Einstieg in die Thematik. Der erste Tagebucheintrag erzählt über die Vorgehensweise, die Inhalte und die Struktur rund um das Modul BAIN und das Lerntagebuch sowie die ersten Schritte in die technischen Grundlagen.
+Wie üblich beginnt das Modul mit einer Vorstellungsrunde, einem organisatorischen Überblick und dem Einstieg in die Thematik. Der erste Tagebucheintrag erzählt daher zuerst über die Vorgehensweise, die Inhalte und die Struktur rund um das Modul BAIN und das Lerntagebuch sowie anschliessend über die ersten Schritte in die technischen Grundlagen.
 
 *_wie arbeiten wir in BAIN_*
 
@@ -20,6 +20,7 @@ Nach erfolgreicher Teilnahme am Modul sind die Studierenden in der Lage
 - Bibliothekarische und archivarische Metadaten (z.B. MARC, MARCXML, MODS, Dublin Core, EAD, BIBFRAME) zu modellieren und diese mit entsprechenden Protokollen /       Anwendungen zu übertragen
 - Crosswalks zwischen unterschiedlichen Metadatenformaten zu programmieren
 
+*Start mit den technischen Grundlagen*
 
 Notizen zum Ablauf:
 - Verbindung mit VDI und dem eigenen Benutzerkonto
