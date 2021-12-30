@@ -20,14 +20,18 @@ Nach erfolgreicher Teilnahme am Modul sind die Studierenden in der Lage
 - Bibliothekarische und archivarische Metadaten (z.B. MARC, MARCXML, MODS, Dublin Core, EAD, BIBFRAME) zu modellieren und diese mit entsprechenden Protokollen /       Anwendungen zu übertragen
 - Crosswalks zwischen unterschiedlichen Metadatenformaten zu programmieren
 
-Folgendes Bild zeigt die Stationen auf im Verlauf des Moduls.
+Folgendes Bild zeigt die Stationen auf im Verlauf des Moduls, es dient als Schaubild der Lerninhalte. Bei jedem zukünftigen Blog-Post wird jeweils auf dem Bild gekennzeichnet sein, wo wir uns gerade befinden. Das Schaubild beginnt mit den drei Systemen die wir uns anschauen werden: Koha, ArchiveSpace und DSpace. Weiter beinhaltet das Schaubild alle Schnittstellen und Metadaten-Sets die wir kennen lernen werden.
+
+![grafik](https://user-images.githubusercontent.com/74451681/147764131-2939d1a1-9e87-4443-9891-be682588e1c0.png)
+
 
 *Technischen Grundlagen*
+
 Notizen zum Ablauf:
 - Verbindung mit VDI und dem eigenen Benutzerkonto
 - Nutzung Terminal
 
-*_Übungen_*
+*Übungen*
 
 Zum Ende des ersten Unterrichts haben wir über Library Carpentry Lessions Shell-Befehle geübt. 
 
