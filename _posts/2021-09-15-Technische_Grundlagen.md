@@ -31,4 +31,5 @@ Zuerst wird die Linux-Arbeitsumgebung eingerichtet. Das heisst, ich verbinde mic
 
 
 ***Übungen***
+
 Um uns im Umgang mit der Shell noch zu üben, haben wir über Library Carpentry Lesson zum Thema Unix Shell Aufgaben gelöst. Dies umfasste vor allem mittels *cd* im File-System zu navigieren und mit *ls* (für list) die Inhalte in den Verzeichnissen anzuzeigen. In der nachfolgenden Übung erstellten wir ein neues Verzeichnis, lasen Text aus einer Datei aus, und liessen uns, ebenfalls über die Shell, verschiedene Teile des Textes ausgeben. Die Übungen haben mir geholfen, wieder in die Bedienung der Shell reinzukommen. 
