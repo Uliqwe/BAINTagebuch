@@ -25,6 +25,7 @@ Folgendes Bild zeigt die Stationen auf im Verlauf des Moduls, es dient als Schau
 ![grafik](https://user-images.githubusercontent.com/74451681/147764131-2939d1a1-9e87-4443-9891-be682588e1c0.png)
 
 
+
 ***Technischen Grundlagen***
 
 Zuerst wird die Linux-Arbeitsumgebung eingerichtet. Das heisst, ich verbinde mich mit dem VPN der FHGR und logge mich via horizon.fhgr.ch auf meinen virtuellen Arbeitsplatz. Da wir virtuelle Arbeitsumgebungen bereits in früheren Kursen benutzt haben, habe ich da keine Berührungsängste und die virtuelle Umgebung ist schnell gestartet.
