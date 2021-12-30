@@ -30,12 +30,5 @@ Folgendes Bild zeigt die Stationen auf im Verlauf des Moduls, es dient als Schau
 Zuerst wird die Linux-Arbeitsumgebung eingerichtet. Das heisst, ich verbinde mich mit dem VPN der FHGR und logge mich via horizon.fhgr.ch auf meinen virtuellen Arbeitsplatz. Da wir virtuelle Arbeitsumgebungen bereits in früheren Kursen benutzt haben, habe ich da keine Berührungsängste und die virtuelle Umgebung ist schnell gestartet.
 
 
-Notizen zum Ablauf:
-- Verbindung mit VDI und dem eigenen Benutzerkonto
-- Nutzung Terminal
-
 ***Übungen***
-
-Zum Ende des ersten Unterrichts haben wir über Library Carpentry Lessions Shell-Befehle geübt. 
-
-
+Um uns im Umgang mit der Shell noch zu üben, haben wir über Library Carpentry Lesson zum Thema Unix Shell Aufgaben gelöst. Dies umfasste vor allem mittels *cd* im File-System zu navigieren und mit *ls* (für list) die Inhalte in den Verzeichnissen anzuzeigen. In der nachfolgenden Übung erstellten wir ein neues Verzeichnis, lasen Text aus einer Datei aus, und liessen uns, ebenfalls über die Shell, verschiedene Teile des Textes ausgeben. Die Übungen haben mir geholfen, wieder in die Bedienung der Shell reinzukommen. 
