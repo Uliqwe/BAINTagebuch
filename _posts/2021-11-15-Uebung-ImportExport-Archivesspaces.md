@@ -3,29 +3,11 @@ title: "Übung Import / Export Archivesspace"
 date: 2021-11-15
 ---
 
-Download von Webseite und via Background-Jobs Import Data Beispiel Hochladen alles gut gegangen. Die Anleitung Schritt für Schritt durchgeführt.
+Bei der Übung in Archivesspace ging es darum sich etwas an Import und Export zu probieren. Der Download der vorgegebenen Webseite und der Import von Daten via Background-Jobs, d.h. das Hochladen der Daten verlief, ohne Probleme. Ich habe die Anleitung Schritt für Schritt durchgeführt und kam zum Ziel.
 
-*Vergleich der Daten auf Archivesspace mit verlinktem HTML-File*
+***Vergleich der Daten auf Archivesspace mit verlinktem HTML-File***
 
-Dates:
-1939 - 1958 in Archivesspace
-1939 - 1969 auf HTML Seite
-Falsche Metadaten? Nein, EAD enthält einfach einen älteren Bestand, wahrscheinlich wurde der Bestand erweitert aber noch nicht in EAD aufgenommen
+Im Vergleich der hochgeladenen EAD-Daten zu denen in der HTML-Ansicht fiel auf, dass die Angaben der Zeiträume variierten: 1939 - 1958 in Archivesspace; 1939 - 1969 auf HTML. Wurden hier nun falsche Metadaten kreiert? Nein, EAD enthält einfach einen älteren Bestand, wahrscheinlich wurde der Bestand erweitert aber noch nicht in EAD aufgenommen. Ausserdem stimmt die Mengenangaben nicht überein: 2 linear ft. in HTML; 1 linear ft. in Archivesspace, was wohl auf dem gleichen Aktualisierungsproblem basiert.
 
-Die Mengenangaben stimmen nicht überein
-2 linear ft. in HTML
-1 linear ft. in Archivesspace
-
-Metadaten falsch...
-
-Struktur HTML - Archivesspace sehr unterschiedlich. Schwierig wirklich vergleiche anzustellen. Wozu dienene die Subjects auf Archivesspace und wo finden sich diese auf der HTML-Seite wieder?
-
-MARCXML - Archivesspaces
-Informationsverslust, weil in MARC21 nicht alle Felder vorhanden sind, die in Archivesspace befüllt sind. Das liegt daran, dass MARC21 ein Bibliotheksstandard ist und nicht primär ein Archivstandard.
-
-
-*Nachtrag zu vorhergehendem Blog-Eintrag "Aufbau und Funktion von Archivsystemen"*
-
-Bei Export aus Archivespace in MARCXML-Format gehen Informationen verloren. Der Export ist also nicht Verlustfrei. Das hat damit zu tun, dass MARC21 ein Bibliotheks-Standard ist, und nicht ein Archivstandard. Der MARC21-Standard liefert also nicht für alle archivspezifischen Felder Daten.
-
-Archivesspace ist in Amerika sehr bekannt. In der Schweiz gibt es den Dienstleister "docuteam", welches die Open Source Software AtoM (?) Access to Memory anbietet. Ist in der Bedienung noch fast einfacher als Archivesspaces. *--> Webseite ansehen!*
+Was die Datenstruktur in HTML & Archivesspace betrifft, zeigt sich, dass diese sehr unterschiedlich dargestellt sind. Das macht es schwierig Vergleiche anzustellen. Wozu dienen bspw. die Subjects auf Archivesspace und wo finden sich diese auf der HTML-Seite wieder?
+Der Export in MARCXML aus Archivesspaces ergab einen Informationsverslust, weil in MARC21 nicht alle Felder vorhanden sind, die in Archivesspace befüllt wurden. Das liegt aber wahrscheinlich daran, dass MARC21 ein Bibliotheksstandard ist und nicht primär ein Archivstandard.
